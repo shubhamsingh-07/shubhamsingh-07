@@ -246,7 +246,8 @@ Collaborated within a competitive team environment to design and deliver an AI-d
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shubhamsingh-07&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shubhamsingh-07&theme=flat&no-frame=true&row=2&column=4"/>
+
 
 </div>
 
